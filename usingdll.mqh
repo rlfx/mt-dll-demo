@@ -1,10 +1,11 @@
 //+------------------------------------------------------------------+
-//|                                                     usingdll.mqh |
-//|                        Copyright 2017, MetaQuotes Software Corp. |
-//|                                                 www.minastir.com |
+//|                                                     usingdll.mq5 |
+//|                                    Copyright 2017, fatfingererr. |
+//|                                fatfingererr [at] gmail [dot] com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2017, MetaQuotes Software Corp."
-#property link      "www.minastir.com"
+#property copyright "Copyright 2017, fatfingererr."
+#property link      "fatfingererr.github.io"
+#property version   "1.00"
 
 //+------------------------------------------------------------------+
 //| DLL imports                                                      |
